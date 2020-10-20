@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Games-Blog/static/css/main.3d2e0dc4.chunk.css",
+    "main.js": "/Games-Blog/static/js/main.55352f13.chunk.js",
+    "main.js.map": "/Games-Blog/static/js/main.55352f13.chunk.js.map",
+    "runtime-main.js": "/Games-Blog/static/js/runtime-main.cfc8706e.js",
+    "runtime-main.js.map": "/Games-Blog/static/js/runtime-main.cfc8706e.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/Games-Blog/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b168058e.chunk.js": "/Games-Blog/static/js/2.b168058e.chunk.js",
+    "static/js/2.b168058e.chunk.js.map": "/Games-Blog/static/js/2.b168058e.chunk.js.map",
+    "index.html": "/Games-Blog/index.html",
+    "precache-manifest.1a5b93c7bc8242e6337c9f79e991c5b2.js": "/Games-Blog/precache-manifest.1a5b93c7bc8242e6337c9f79e991c5b2.js",
+    "service-worker.js": "/Games-Blog/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/Games-Blog/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.3d2e0dc4.chunk.css.map": "/Games-Blog/static/css/main.3d2e0dc4.chunk.css.map",
+    "static/js/2.b168058e.chunk.js.LICENSE.txt": "/Games-Blog/static/js/2.b168058e.chunk.js.LICENSE.txt",
+    "static/media/Banner.css": "/Games-Blog/static/media/hitman.616f689b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfc8706e.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b168058e.chunk.js",
+    "static/css/main.3d2e0dc4.chunk.css",
+    "static/js/main.55352f13.chunk.js"
+  ]
+}
