@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+.newpost_container{
+	background: rgb(99,99,96);
+background: radial-gradient(circle, rgba(99,99,96,1) 0%, rgba(47,47,47,1) 100%);
+font-family: 'Raleway',sans-serif;
+height: 100vh;
+}
+.type_field{
+	background-color: lightgrey;
+}
+@media only screen and (max-width: 576px) {
+	.forma{
+		width: 100%!important;
+		margin-top: 5rem!important;
+	}
+	.newpost_h2{
+		font-size: 1rem;
+	}
+}

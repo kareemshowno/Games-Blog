@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+.posts_container{
+	background: rgb(99,99,96);
+background: radial-gradient(circle, rgba(99,99,96,1) 0%, rgba(47,47,47,1) 100%);
+font-family: 'Raleway',sans-serif;
+padding-top: 7rem!important;
+}
+.post_info{
+
+}
+.container_modal {
+		font-family: 'Raleway',sans-serif;
+	
+}
+
